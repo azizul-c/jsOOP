@@ -1,3 +1,3 @@
-# Learning Object Oriented Programming in JavaScript
+# Object Oriented Programming in JavaScript
 
-My learnings from a (https://youtu.be/vDJpGenyHaA)[JavaScript OOP Crash Course].
+My learnings from a [JavaScript OOP Crash Course](https://youtu.be/vDJpGenyHaA).
